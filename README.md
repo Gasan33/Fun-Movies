@@ -1,16 +1,6 @@
 # fun_movies
 
-A new Flutter project.
+A small Mobile Application Use Bloc Pattern
+![1](https://github.com/Gasan33/Fun-Movies/assets/147078972/f2acac14-a08a-4c48-be77-74e32f428642)
+![2](https://github.com/Gasan33/Fun-Movies/assets/147078972/7832f458-bc58-43e8-87ba-ec95a198eec6)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
